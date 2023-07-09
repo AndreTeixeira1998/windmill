@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.127.0](https://github.com/windmill-labs/windmill/compare/v1.126.0...v1.127.0) (2023-07-09)
+
+
+### Features
+
+* add test connection to resource editor ([9d5cfaf](https://github.com/windmill-labs/windmill/commit/9d5cfafb281c1cc7dd3eb18e5eb7bf9f7423957c))
+
 ## [1.126.0](https://github.com/windmill-labs/windmill/compare/v1.125.1...v1.126.0) (2023-07-09)
 
 
